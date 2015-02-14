@@ -27,7 +27,7 @@
 //                        +----+
 
 int ledPin = PB4;    // LED connected to digital pin 4
-int fadeSpeed = 3;   // define variable to control the fade speed
+int fadeSpeed = 1;   // define variable to control the fade speed
 
 void setup()  { 
 
