@@ -7,6 +7,8 @@ sample codes for the attiny workshop at Art/Science Bangalore
 
 // http://highlowtech.org/?p=1695
 
+// or https://code.google.com/p/arduino-tiny/
+
 //
 
 //                        +-\/-+
